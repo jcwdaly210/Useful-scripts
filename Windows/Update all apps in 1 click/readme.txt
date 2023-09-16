@@ -1,0 +1,1 @@
+Runs script to check all apps for updates and updates them automatically
